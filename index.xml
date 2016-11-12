@@ -1,1 +1,4 @@
-<icon src="appicon.png" />
+<widget>
+  <name>CTRL</name>
+  <icon src="appicon.png" />
+</widget>
