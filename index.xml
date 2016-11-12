@@ -1,2 +1,21 @@
-<icon src="appicon.png"/>
-<name>CTRL</name>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.ctrl"
+        version   = "1.0.0">
+
+    <name>CTRL</name>
+
+    <description>
+        CTRL game for Hackathon
+    </description>
+
+    <author href="http://fusioninfinite.com" email="karl@freehawk.net">
+        FusionInfinite
+    </author>
+  
+  <icon src="appicon.png" />
+  
+</widget>
