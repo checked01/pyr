@@ -1,4 +1,5 @@
 <widget>
   <name>CTRL</name>
-  <icon src="appicon.png" />
+  <icon src="icon.png" />
+  <icon src="icon.png" platform="android" />
 </widget>
